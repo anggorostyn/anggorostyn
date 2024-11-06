@@ -10,7 +10,7 @@
 
 <h3 align="center">🚀 About Me </h3>
 
-<div align="center">
+<div align="justify">
 
 #
 
@@ -48,16 +48,7 @@ I have a strong foundation in Python, AWS, and Database management. Currently, I
 
 <br/>
 <hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/anggorostyn/anggorostyn/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
-</div>
-
-<hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
